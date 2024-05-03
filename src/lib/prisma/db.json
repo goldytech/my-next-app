@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "John@email.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "email": "Jane@email.com"
+    },
+    {
+      "id": 3,
+      "firstName": "Jim",
+      "lastName": "Doe",
+      "email": "Jim@email.com"
+    }
+  ]
+}
