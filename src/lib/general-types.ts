@@ -5,7 +5,7 @@ export interface Contact{
     email: string;
 }
 
-export interface ContactList{
+export interface ContactDto {
     id: number;
     firstName: string;
     lastName: string;

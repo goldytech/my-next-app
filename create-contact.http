@@ -1,0 +1,14 @@
+### GET request to example server
+POST http://localhost:3001/contacts
+Content-Type: application/json
+
+{
+    "id": 0,
+    "firstName": "Magaz",
+    "lastName": "sha",
+    "email": "magaz@email.com"
+ }
+
+
+
+###

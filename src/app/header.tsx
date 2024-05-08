@@ -17,8 +17,7 @@ export default function Header() {
             </h2>
           </div>
           <div className="col-lg-6 text-lg-start mt-3 mt-lg-0">
-            <h5 className="text-uppercase text-black">October 19-20, 2019</h5>
-            <h6 className="text-uppercase text-black-50">
+              <h6 className="text-uppercase text-black-50">
               Developed by: <span className="text-black">goldytech</span>
             </h6>
           </div>
