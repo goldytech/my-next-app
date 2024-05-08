@@ -61,6 +61,7 @@ The Context API provides a way to pass data through the component tree without h
 every level. In this project, it's used to share common data across multiple components, making the state management
 more efficient and the code cleaner.
 
+```mermaid
 graph TB
 App --> ContactMenuProvider
 ContactMenuProvider --> ContactModalProvider
@@ -78,6 +79,7 @@ ContactDetail --> ContactDialogEdit
 ContactDetail --> ContactDeleteButton
 ContactModalProvider --> Footer
 ContactMenuProvider --> Header
+```
 
 ## Running the Application
 
